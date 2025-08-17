@@ -1,0 +1,21 @@
+{
+    "name": "binary-search-trees",
+    "version": "1.0.0",
+    "description": "",
+    "main": "BTS.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LalaineHines/Binary-Trees.git"
+    },
+    "keywords": [],
+    "author": "Lalaine Hines",
+    "license": "ISc",
+    "bugs": {
+        "url": "https://github.com/LalaineHines/Binary-Trees"
+    },
+    "homepage": "https://github.com/LalaineHines/Binary-Trees#readme"
+}
